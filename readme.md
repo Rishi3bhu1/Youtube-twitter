@@ -1,3 +1,3 @@
 # Full Stack Project
 
-This is a youtube+Twitter Full Stack project more backend oriented
+This is a youtube+Twitter Full Stack project more backend oriented project
